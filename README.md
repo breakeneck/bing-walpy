@@ -2,7 +2,7 @@
 ## Usage
 python bing-wpy.py
 
-Better to use it with Plasma Command Output plugin, it will show picture description:
+Better to use it with Plasma Command Output plugin, it will show picture description on desktop:
 
 ![Command Output plugin](https://i.imgur.com/hNvkOCL.png)
 
