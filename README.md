@@ -2,9 +2,9 @@
 ## Usage
 python bing-wpy.py
 
-Better to use it with Plasma Command Output plugin:
+Better to use it with Plasma Command Output plugin, it will show picture description:
 
-![Command Output plugin](https://i.imgur.com/tp2nk9P.png)
+![Command Output plugin](https://i.imgur.com/hNvkOCL.png)
 
 ## Thanks
 To https://github.com/pashazz/ksetwallpaper for change wallpaper for Plasma Desktop, that was used in this script.
