@@ -2,7 +2,8 @@
 ## Usage
 python bing-wpy.py
 
-Better to use it with Plasma Command Output plugin
+Better to use it with Plasma Command Output plugin:
+
 ![Command Output plugin](https://imgur.com/tp2nk9P)
 
 ## Thanks
